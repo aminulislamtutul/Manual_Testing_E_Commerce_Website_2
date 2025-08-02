@@ -10,3 +10,14 @@ Motion View is a modern, responsive e-commerce website designed to provide a sea
 - Order track
 - Header section
 - Footer section
+## Table of Contents
+- Test plan
+- Mind maps
+- Test scenarios
+- Test case
+- Test summary report
+- Bug report
+- Test metrics
+## Mind Maps
+<img width="2682" height="2110" alt="Motion View " src="https://github.com/user-attachments/assets/03b600ea-2323-42a1-b211-9d32982ea4ab" />
+
