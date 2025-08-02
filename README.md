@@ -3,5 +3,10 @@ Manual testing is the process of manually testing software for defects. It requi
 ## Project Overview
 Motion View is a modern, responsive e-commerce website designed to provide a seamless online shopping experience for users. The platform includes product browsing, user authentication, shopping cart functionality, order management, and a secure checkout process.
 ### **Features**
-- Login
-- Signup
+- User registration and login
+- Forgot password
+- Search functionality
+- Cart functionality
+- Order track
+- Header section
+- Footer section
