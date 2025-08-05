@@ -24,7 +24,7 @@ Motion View is a modern, responsive e-commerce website designed to provide a sea
 These reports may include defect reports, test execution reports, test summary reports, and any other relevant documentation.
 <img width="933" height="188" alt="Screenshot 2025-08-03 232928" src="https://github.com/user-attachments/assets/0c3edc82-6112-4b68-a471-7e0bd32323c9" />
 ## Bug Report
-<img width="575" height="209" alt="Screenshot 2025-08-05 225506" src="https://github.com/user-attachments/assets/468e4b47-0b57-4145-84c0-478c570485ef" />
+<img width="933" height="209" alt="Screenshot 2025-08-05 225506" src="https://github.com/user-attachments/assets/468e4b47-0b57-4145-84c0-478c570485ef" />
 
 
 
