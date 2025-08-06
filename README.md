@@ -20,7 +20,6 @@ Motion View is a modern, responsive e-commerce website designed to provide a sea
 - Test metrics
 ## Mind Maps
 <img width="2682" height="2110" alt="Motion View " src="https://github.com/user-attachments/assets/03b600ea-2323-42a1-b211-9d32982ea4ab" />
-
 ## Test Report
 These reports may include defect reports, test execution reports, test summary reports, and any other relevant documentation.
 
