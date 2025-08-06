@@ -23,7 +23,7 @@ Motion View is a modern, responsive e-commerce website designed to provide a sea
 ## Test Report
 These reports may include defect reports, test execution reports, test summary reports, and any other relevant documentation.
 
-## What is Manual Testing?
+## Test Report
 Manual testing is the process of manually testing software for defects. It requires a tester to play the role of an end user, using most of the application's features to ensure correct behavior.
 
 
