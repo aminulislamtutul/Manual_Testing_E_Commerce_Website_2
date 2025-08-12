@@ -1,4 +1,4 @@
-## What is Manual Testing?
+hj## What is Manual Testing?
 Manual testing is the process of manually testing software for defects. It requires a tester to play the role of an end user, using most of the application's features to ensure correct behavior.
 ## Project Overview
 Motion View is a modern, responsive e-commerce website designed to provide a seamless online shopping experience for users. The platform includes product browsing, user authentication, shopping cart functionality, order management, and a secure checkout process.
@@ -26,4 +26,4 @@ These reports may include defect reports, test execution reports, test summary r
 
 <img width="2682" height="188" alt="Screenshot 2025-08-03 232928" src="https://github.com/user-attachments/assets/8f17c84f-8c6c-4ec6-8129-eb9906f4606f" />
 
-hkhnhkjkhhj,mj
+hkhnhkjkhhj,mjhk
