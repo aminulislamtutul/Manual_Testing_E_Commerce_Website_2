@@ -30,7 +30,7 @@ These reports may include defect reports, test execution reports, test summary r
 <img width="960" height="510" alt="Screenshot 2025-09-28 212857" src="https://github.com/user-attachments/assets/bdfe3c71-619b-4f1d-baee-6a07959fd13e" />
 
 ## Conclusion
-This manual testing project for Dazzle has successfully validated the platform's core functionalities and security measures. The documentation, including test cases, scenarios, a mind map, a test summary report, test metrics, and bug reports, has been prepared to assist in continuous quality improvement.
+This manual testing project for Motion View has successfully validated the platform's core functionalities and security measures. The documentation, including test cases, scenarios, a mind map, a test summary report, test metrics, and bug reports, has been prepared to assist in continuous quality improvement.
 
 
 
